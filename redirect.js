@@ -1,7 +1,7 @@
 /**
 * redirect.js 
 *
-* Retrieve the url hidden behing and HTML4 history hash glitch
+* Retrieve the url hidden behind and HTML4 history hash glitch
 *
 * @author Ludovic Decampy <ludovic.decampy@gmail.com>
 * @copyright 2014 Ludovic Decampy <ludovic.decampy@gmail.com>
